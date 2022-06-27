@@ -1,5 +1,6 @@
 # EksiSozluk-Firebase
 
+Ekşi Sözlük is a web page designed in participatory dictionary style, containing comments by authors who have records on all kinds of concepts and topics.
 
 
 
